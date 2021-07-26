@@ -1,0 +1,17 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --sub-text-color: #fff;
+  --accent-color: red;
+
+  --main-text-color: #000;
+
+  --first-brand-color: #927397;
+  --second-brand-color: #d6809c;
+  --third-brand-color: #e7cbae;
+
+  --main-font: 'Open Sans Condensed';
+  --title-font: 'Encode Sans SC Expanded';
+
+  font-size: 62.5%;
+}

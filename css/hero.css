@@ -1,0 +1,17 @@
+.hero__wrapper {
+  background-color: var(--first-brand-color);
+}
+.hero {
+  padding: 10rem 0 5rem;
+}
+.hero .title span {
+  font-family: inherit;
+  color: var(--second-brand-color);
+}
+.hero .text {
+  max-width:70rem;
+  margin-bottom: 4rem;
+}
+@media screen and (min-width: 1024px) {
+  
+}

@@ -1,0 +1,17 @@
+.about__wrapper {
+  background-color: var(--third-brand-color);
+}
+.about  {
+  padding: 5rem 0;
+}
+@media screen and (min-width: 1024px) {
+
+  .about .list {
+    display: flex;
+    justify-content: center;
+  }
+  .about .img {
+    height: 30rem;
+    object-fit: cover;
+  }
+}
